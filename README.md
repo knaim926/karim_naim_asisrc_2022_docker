@@ -1,9 +1,9 @@
 # karim_naim_asisrc_2022_docker
 projet docker 3éme année
 
-Etape 1 : Créer un compte docker Hub 
+Etape 1 : Créer un compte docker Hub : https://hub.docker.com/
 
-Etape 2 : Télecharger docker desktop 
+Etape 2 : Télecharger docker desktop : https://www.docker.com/products/docker-desktop
 
 Etape 3 : Vérifié si on posséde docker compose , en tapant la commande docker-compose v , si rien n'est affiché alors on ne posséde pas docker-compose
 
