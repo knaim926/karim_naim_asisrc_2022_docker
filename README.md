@@ -12,3 +12,4 @@ Etape 4 : mon dossier se trouve dans C:\Users\naimk\Documents\karim_naim_asisrc_
 Etape 5 : Si on lance un docker compose up , pour le stoper il faut faire un CTRL C . 
 
 Rappel : Si on on posséde plusieurs conteneur à lancer on doit lancer le docker compose en arrière plan , voici la commande :  docker compose up -d , pour l'arreter docker compose stop.
+Etape 7 : se rendre sur un navigateur et taper http://localhost:3000
